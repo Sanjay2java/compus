@@ -1,0 +1,46 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background-color: cornflowerblue;
+}
+
+.contact {
+    display: flex;
+}
+
+.logo {
+    display: flex;
+    background-color: aliceblue;
+}
+
+.smedia {
+    background-color: aqua;
+    color: black;
+    display: flex;
+}
+
+
+.smedia i {
+    display: flex;
+}
+
+.smedia p {
+    display: flex;
+}
+
+.test {
+    display: flex;
+    margin: 10px;
+}
+
+.test1 {
+    display: flex;
+    background-color: antiquewhite;
+}
+
+.test2 {
+    display: flex;
+}
